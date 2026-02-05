@@ -1,0 +1,12 @@
+.allproducts {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 equal columns */
+  gap: 30px; /* space between items */
+  padding: 20px;
+}
+
+img {
+  height: 300px;
+  width: 350px;
+  border-radius: 20px;
+}

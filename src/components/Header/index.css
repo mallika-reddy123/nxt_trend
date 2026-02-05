@@ -1,0 +1,12 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+.website-logo{
+    height:70px; 
+    width:100px;
+}
+ul{
+display: flex;
+gap: 19px;
+}
