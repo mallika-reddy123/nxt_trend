@@ -16,7 +16,8 @@ const Everyproduct=(props)=>{
             </h1>  
              <p>{rating}</p>
             <p>{brand}</p> 
-            <p>{price}</p>   
+            <p>{price}</p>    
+             <button>ADD TO CART</button>
             </Link>
 
            
